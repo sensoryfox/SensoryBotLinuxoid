@@ -1,4 +1,4 @@
-# SensoryBotLinux
+# SensoryBotLinuxoid
 
 ![alt text](https://github.com/sensoryfox/SensoryBotLinuxoid/blob/master/HowItsLook.png?raw=true)
 
@@ -15,7 +15,7 @@ SensoryBot is more than just a bot for interacting with LLM models through the O
 * **File Management:** Store, organize, and manage all your files in one place.
 * **Accessibility:** SensoryBot runs even on modest computers, successfully running llama2:3b-instruct-q6_K on a system with a GTX 1650 4GB graphics card.
 
-**Installing SensoryBot on Linux:**
+**Installing SensoryBot on Linux 22.04 (on python 3.10 or >):**
 
 The installation process is as simple as possible:
 
@@ -27,7 +27,8 @@ git clone https://github.com/sensoryfox/SensoryBotLinuxoid.git
 ```
 cd SensoryBotLinux
 sudo apt install libarchive13 liblept5 poppler-utils
-```
+sudo apt-get install -y libxcb-cursor-dev
+``` 
 5. **Run the application:**
 ```
 chmod +x *.sh *.py  # Configure permissions if necessary (IF NEED)
