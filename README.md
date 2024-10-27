@@ -25,7 +25,7 @@ git clone https://github.com/sensoryfox/SensoryBotLinuxoid.git
 ```
 3. **Install dependencies:**
 ```
-cd SensoryBotLinux
+cd SensoryBotLinuxoid
 sudo apt install libarchive13 liblept5 poppler-utils
 sudo apt-get install -y libxcb-cursor-dev
 ``` 
