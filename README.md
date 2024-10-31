@@ -1,7 +1,5 @@
 # SensoryBotLinuxoid
-
 ![alt text](https://github.com/sensoryfox/SensoryBotLinuxoid/blob/master/HowItsLook.png?raw=true)
-
 ## SensoryBot: Your Personal AI Assistant in Telegram with File Management
 
 SensoryBot is more than just a bot for interacting with LLM models through the Ollama API. It’s a full-fledged tool for managing your files, accessible both through Telegram and a user-friendly graphical interface.
